@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
-    "Codeforces_1849B_-_Monsters": true
+    "Codeforces_1849B_-_Monsters": true,
+    "Codeforces_158A_-_Next_Round": true
   },
   "activityHistory": {
-    "2026-09-11": 1
+    "2026-09-11": 2
   },
   "todayProblems": [
-    "1849B - Monsters"
+    "1849B - Monsters",
+    "158A - Next Round"
   ]
 }
