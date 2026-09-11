@@ -1,11 +1,11 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "basic": 5
@@ -15,16 +15,18 @@
     "Codeforces_158A_-_Next_Round": true,
     "Codeforces_50A_-_Domino_piling": true,
     "Codeforces_791A_-_Bear_and_Big_Brother": true,
-    "Codeforces_339A_-_Helpful_Maths": true
+    "Codeforces_339A_-_Helpful_Maths": true,
+    "LeetCode_Find_the_Key_of_the_Numbers": true
   },
   "activityHistory": {
-    "2026-09-11": 5
+    "2026-09-11": 6
   },
   "todayProblems": [
     "1849B - Monsters",
     "158A - Next Round",
     "50A - Domino piling",
     "791A - Bear and Big Brother",
-    "339A - Helpful Maths"
+    "339A - Helpful Maths",
+    "Find the Key of the Numbers"
   ]
 }
