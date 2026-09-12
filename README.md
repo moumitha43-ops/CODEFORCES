@@ -7,3 +7,4 @@
 | 5 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 11 Sept 2026 | 07:22 pm |
 | 6 | [Find the Key of the Numbers](./LeetCode/Easy/Find%20the%20Key%20of%20the%20Numbers) | [LeetCode](https://leetcode.com/problems/find-the-key-of-the-numbers/) | Easy | 11 Sept 2026 | 10:51 pm |
 | 7 | [1791D - Distinct Split](./Codeforces/basic/1791D%20-%20Distinct%20Split) | [Codeforces](https://codeforces.com/problemset/problem/1791/D) | basic | 12 Sept 2026 | 11:42 am |
+| 8 | [1744C - Traffic Light](./Codeforces/basic/1744C%20-%20Traffic%20Light) | [Codeforces](https://codeforces.com/problemset/problem/1744/C) | basic | 12 Sept 2026 | 01:53 pm |
