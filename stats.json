@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-09-15",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 8
   },
@@ -21,15 +21,16 @@
     "Codeforces_1744C_-_Traffic_Light": true,
     "LeetCode_Count_Values_With_Equally_Spaced_Occurrences_II": true,
     "Codeforces_A_-_Elephant": true,
-    "LeetCode_Remove_All_Occurrences_of_a_Substring": true
+    "LeetCode_Remove_All_Occurrences_of_a_Substring": true,
+    "LeetCode_Watering_Plants": true
   },
   "activityHistory": {
     "2026-09-11": 6,
     "2026-09-12": 3,
-    "2026-09-15": 2
+    "2026-09-15": 2,
+    "2026-09-17": 1
   },
   "todayProblems": [
-    "A - Elephant",
-    "Remove All Occurrences of a Substring"
+    "Watering Plants"
   ]
 }
