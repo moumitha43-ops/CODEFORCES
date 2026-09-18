@@ -12,3 +12,4 @@
 | 10 | [A - Elephant](./Codeforces/basic/A%20-%20Elephant) | [Codeforces](https://codeforces.com/contest/617/problem/A) | basic | 15 Sept 2026 | 09:53 am |
 | 11 | [Remove All Occurrences of a Substring](./LeetCode/Medium/Remove%20All%20Occurrences%20of%20a%20Substring) | [LeetCode](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | 15 Sept 2026 | 06:27 pm |
 | 12 | [Watering Plants](./LeetCode/Medium/Watering%20Plants) | [LeetCode](https://leetcode.com/problems/watering-plants/) | Medium | 17 Sept 2026 | 10:26 pm |
+| 13 | [Count Values With Equally Spaced Occurrences I](./LeetCode/Easy/Count%20Values%20With%20Equally%20Spaced%20Occurrences%20I) | [LeetCode](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | Easy | 18 Sept 2026 | 08:36 pm |
