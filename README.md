@@ -14,3 +14,4 @@
 | 12 | [Watering Plants](./LeetCode/Medium/Watering%20Plants) | [LeetCode](https://leetcode.com/problems/watering-plants/) | Medium | 17 Sept 2026 | 10:26 pm |
 | 13 | [Count Values With Equally Spaced Occurrences I](./LeetCode/Easy/Count%20Values%20With%20Equally%20Spaced%20Occurrences%20I) | [LeetCode](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | Easy | 18 Sept 2026 | 08:36 pm |
 | 14 | [C - Kefa and Park](./Codeforces/basic/C%20-%20Kefa%20and%20Park) | [Codeforces](https://codeforces.com/contest/580/problem/C) | basic | 19 Sept 2026 | 10:17 am |
+| 15 | [1093D - Beautiful Graph](./Codeforces/basic/1093D%20-%20Beautiful%20Graph) | [Codeforces](https://codeforces.com/problemset/problem/1093/D) | basic | 19 Sept 2026 | 02:59 pm |
