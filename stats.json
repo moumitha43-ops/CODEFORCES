@@ -1,12 +1,12 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-19",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 10
   },
@@ -25,7 +25,8 @@
     "LeetCode_Watering_Plants": true,
     "LeetCode_Count_Values_With_Equally_Spaced_Occurrences_I": true,
     "Codeforces_C_-_Kefa_and_Park": true,
-    "Codeforces_1093D_-_Beautiful_Graph": true
+    "Codeforces_1093D_-_Beautiful_Graph": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -33,10 +34,11 @@
     "2026-09-15": 2,
     "2026-09-17": 1,
     "2026-09-18": 1,
-    "2026-09-19": 2
+    "2026-09-19": 3
   },
   "todayProblems": [
     "C - Kefa and Park",
-    "1093D - Beautiful Graph"
+    "1093D - Beautiful Graph",
+    "Maximum Subarray"
   ]
 }
