@@ -16,3 +16,4 @@
 | 14 | [C - Kefa and Park](./Codeforces/basic/C%20-%20Kefa%20and%20Park) | [Codeforces](https://codeforces.com/contest/580/problem/C) | basic | 19 Sept 2026 | 10:17 am |
 | 15 | [1093D - Beautiful Graph](./Codeforces/basic/1093D%20-%20Beautiful%20Graph) | [Codeforces](https://codeforces.com/problemset/problem/1093/D) | basic | 19 Sept 2026 | 02:59 pm |
 | 16 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 19 Sept 2026 | 11:17 pm |
+| 17 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 10:07 am |
