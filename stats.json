@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-09-20",
+  "totalSolved": 18,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-09-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 10
   },
@@ -27,7 +27,8 @@
     "Codeforces_C_-_Kefa_and_Park": true,
     "Codeforces_1093D_-_Beautiful_Graph": true,
     "LeetCode_Maximum_Subarray": true,
-    "LeetCode_Reverse_Degree_of_a_String": true
+    "LeetCode_Reverse_Degree_of_a_String": true,
+    "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -36,9 +37,10 @@
     "2026-09-17": 1,
     "2026-09-18": 1,
     "2026-09-19": 3,
-    "2026-09-20": 1
+    "2026-09-20": 1,
+    "2026-09-21": 1
   },
   "todayProblems": [
-    "Reverse Degree of a String"
+    "Minimum Add to Make Parentheses Valid"
   ]
 }

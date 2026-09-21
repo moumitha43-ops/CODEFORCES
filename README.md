@@ -17,3 +17,4 @@
 | 15 | [1093D - Beautiful Graph](./Codeforces/basic/1093D%20-%20Beautiful%20Graph) | [Codeforces](https://codeforces.com/problemset/problem/1093/D) | basic | 19 Sept 2026 | 02:59 pm |
 | 16 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 19 Sept 2026 | 11:17 pm |
 | 17 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 10:07 am |
+| 18 | [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | 21 Sept 2026 | 06:32 pm |
