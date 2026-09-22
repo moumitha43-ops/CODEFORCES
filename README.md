@@ -19,3 +19,4 @@
 | 17 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 10:07 am |
 | 18 | [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | 21 Sept 2026 | 06:32 pm |
 | 19 | [Reduce Array Size to The Half](./LeetCode/Medium/Reduce%20Array%20Size%20to%20The%20Half) | [LeetCode](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Medium | 21 Sept 2026 | 06:43 pm |
+| 20 | [Most Common Word](./LeetCode/Easy/Most%20Common%20Word) | [LeetCode](https://leetcode.com/problems/most-common-word/) | Easy | 22 Sept 2026 | 06:55 pm |
