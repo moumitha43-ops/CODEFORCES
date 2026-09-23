@@ -1,12 +1,12 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-23",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 10
   },
@@ -33,7 +33,8 @@
     "LeetCode_Most_Common_Word": true,
     "LeetCode_Rearrange_Words_in_a_Sentence": true,
     "LeetCode_Maximum_Prime_Difference": true,
-    "LeetCode_Vowels_Game_in_a_String": true
+    "LeetCode_Vowels_Game_in_a_String": true,
+    "LeetCode_Find_Three_Consecutive_Integers_That_Sum_to_a_Given_Number": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -45,11 +46,12 @@
     "2026-09-20": 1,
     "2026-09-21": 2,
     "2026-09-22": 1,
-    "2026-09-23": 3
+    "2026-09-23": 4
   },
   "todayProblems": [
     "Rearrange Words in a Sentence",
     "Maximum Prime Difference",
-    "Vowels Game in a String"
+    "Vowels Game in a String",
+    "Find Three Consecutive Integers That Sum to a Given Number"
   ]
 }
