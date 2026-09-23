@@ -22,3 +22,4 @@
 | 20 | [Most Common Word](./LeetCode/Easy/Most%20Common%20Word) | [LeetCode](https://leetcode.com/problems/most-common-word/) | Easy | 22 Sept 2026 | 06:55 pm |
 | 21 | [Rearrange Words in a Sentence](./LeetCode/Medium/Rearrange%20Words%20in%20a%20Sentence) | [LeetCode](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | Medium | 23 Sept 2026 | 07:27 pm |
 | 22 | [Maximum Prime Difference](./LeetCode/Medium/Maximum%20Prime%20Difference) | [LeetCode](https://leetcode.com/problems/maximum-prime-difference/) | Medium | 23 Sept 2026 | 08:31 pm |
+| 23 | [Vowels Game in a String](./LeetCode/Medium/Vowels%20Game%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | 23 Sept 2026 | 08:46 pm |
