@@ -1,11 +1,11 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 11,
     "hard": 0,
     "basic": 10
@@ -39,7 +39,8 @@
     "LeetCode_Faulty_Keyboard": true,
     "LeetCode_Determine_if_String_Halves_Are_Alike": true,
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
-    "LeetCode_Difference_Between_Ones_and_Zeros_in_Row_and_Column": true
+    "LeetCode_Difference_Between_Ones_and_Zeros_in_Row_and_Column": true,
+    "LeetCode_Maximum_Odd_Binary_Number": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -52,10 +53,11 @@
     "2026-09-21": 2,
     "2026-09-22": 1,
     "2026-09-23": 7,
-    "2026-09-24": 2
+    "2026-09-24": 3
   },
   "todayProblems": [
     "Smallest Index With Digit Sum Equal to Index",
-    "Difference Between Ones and Zeros in Row and Column"
+    "Difference Between Ones and Zeros in Row and Column",
+    "Maximum Odd Binary Number"
   ]
 }

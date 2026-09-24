@@ -29,3 +29,4 @@
 | 27 | [Determine if String Halves Are Alike](./LeetCode/Easy/Determine%20if%20String%20Halves%20Are%20Alike) | [LeetCode](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | 23 Sept 2026 | 09:27 pm |
 | 28 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 08:58 am |
 | 29 | [Difference Between Ones and Zeros in Row and Column](./LeetCode/Medium/Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column) | [LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium | 24 Sept 2026 | 09:57 am |
+| 30 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 24 Sept 2026 | 10:06 am |
