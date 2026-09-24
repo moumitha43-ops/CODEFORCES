@@ -27,3 +27,4 @@
 | 25 | [Count Integers With Even Digit Sum](./LeetCode/Easy/Count%20Integers%20With%20Even%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | Easy | 23 Sept 2026 | 09:01 pm |
 | 26 | [Faulty Keyboard](./LeetCode/Easy/Faulty%20Keyboard) | [LeetCode](https://leetcode.com/problems/faulty-keyboard/) | Easy | 23 Sept 2026 | 09:14 pm |
 | 27 | [Determine if String Halves Are Alike](./LeetCode/Easy/Determine%20if%20String%20Halves%20Are%20Alike) | [LeetCode](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | 23 Sept 2026 | 09:27 pm |
+| 28 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 08:58 am |

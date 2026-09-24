@@ -1,11 +1,11 @@
 {
-  "totalSolved": 27,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-09-23",
-  "todayCount": 7,
+  "totalSolved": 28,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-09-24",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 10,
     "hard": 0,
     "basic": 10
@@ -37,7 +37,8 @@
     "LeetCode_Find_Three_Consecutive_Integers_That_Sum_to_a_Given_Number": true,
     "LeetCode_Count_Integers_With_Even_Digit_Sum": true,
     "LeetCode_Faulty_Keyboard": true,
-    "LeetCode_Determine_if_String_Halves_Are_Alike": true
+    "LeetCode_Determine_if_String_Halves_Are_Alike": true,
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -49,15 +50,10 @@
     "2026-09-20": 1,
     "2026-09-21": 2,
     "2026-09-22": 1,
-    "2026-09-23": 7
+    "2026-09-23": 7,
+    "2026-09-24": 1
   },
   "todayProblems": [
-    "Rearrange Words in a Sentence",
-    "Maximum Prime Difference",
-    "Vowels Game in a String",
-    "Find Three Consecutive Integers That Sum to a Given Number",
-    "Count Integers With Even Digit Sum",
-    "Faulty Keyboard",
-    "Determine if String Halves Are Alike"
+    "Smallest Index With Digit Sum Equal to Index"
   ]
 }
