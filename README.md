@@ -30,3 +30,4 @@
 | 28 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 08:58 am |
 | 29 | [Difference Between Ones and Zeros in Row and Column](./LeetCode/Medium/Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column) | [LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium | 24 Sept 2026 | 09:57 am |
 | 30 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 24 Sept 2026 | 10:06 am |
+| 31 | [Find the Most Common Response](./LeetCode/Medium/Find%20the%20Most%20Common%20Response) | [LeetCode](https://leetcode.com/problems/find-the-most-common-response/) | Medium | 24 Sept 2026 | 10:59 am |
