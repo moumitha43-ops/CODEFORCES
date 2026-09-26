@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 8,
+  "totalSolved": 32,
+  "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-09-24",
-  "todayCount": 4,
+  "lastSyncDate": "2026-09-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 12,
+    "medium": 13,
     "hard": 0,
     "basic": 10
   },
@@ -41,7 +41,8 @@
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "LeetCode_Difference_Between_Ones_and_Zeros_in_Row_and_Column": true,
     "LeetCode_Maximum_Odd_Binary_Number": true,
-    "LeetCode_Find_the_Most_Common_Response": true
+    "LeetCode_Find_the_Most_Common_Response": true,
+    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -54,12 +55,10 @@
     "2026-09-21": 2,
     "2026-09-22": 1,
     "2026-09-23": 7,
-    "2026-09-24": 4
+    "2026-09-24": 4,
+    "2026-09-26": 1
   },
   "todayProblems": [
-    "Smallest Index With Digit Sum Equal to Index",
-    "Difference Between Ones and Zeros in Row and Column",
-    "Maximum Odd Binary Number",
-    "Find the Most Common Response"
+    "Evaluate the Bracket Pairs of a String"
   ]
 }
