@@ -1,12 +1,12 @@
 {
-  "totalSolved": 32,
-  "currentStreak": 1,
+  "totalSolved": 33,
+  "currentStreak": 2,
   "maxStreak": 8,
-  "lastSyncDate": "2026-09-26",
+  "lastSyncDate": "2026-09-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 13,
+    "medium": 14,
     "hard": 0,
     "basic": 10
   },
@@ -42,7 +42,8 @@
     "LeetCode_Difference_Between_Ones_and_Zeros_in_Row_and_Column": true,
     "LeetCode_Maximum_Odd_Binary_Number": true,
     "LeetCode_Find_the_Most_Common_Response": true,
-    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true
+    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
+    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -56,9 +57,10 @@
     "2026-09-22": 1,
     "2026-09-23": 7,
     "2026-09-24": 4,
-    "2026-09-26": 1
+    "2026-09-26": 1,
+    "2026-09-27": 1
   },
   "todayProblems": [
-    "Evaluate the Bracket Pairs of a String"
+    "Reverse Substrings Between Each Pair of Parentheses"
   ]
 }

@@ -32,3 +32,4 @@
 | 30 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 24 Sept 2026 | 10:06 am |
 | 31 | [Find the Most Common Response](./LeetCode/Medium/Find%20the%20Most%20Common%20Response) | [LeetCode](https://leetcode.com/problems/find-the-most-common-response/) | Medium | 24 Sept 2026 | 10:59 am |
 | 32 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 06:46 pm |
+| 33 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 27 Sept 2026 | 12:02 pm |
