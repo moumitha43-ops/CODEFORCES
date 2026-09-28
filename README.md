@@ -34,3 +34,4 @@
 | 32 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 06:46 pm |
 | 33 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 27 Sept 2026 | 12:02 pm |
 | 34 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 12:24 pm |
+| 35 | [Increasing Triplet Subsequence](./LeetCode/Medium/Increasing%20Triplet%20Subsequence) | [LeetCode](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | 28 Sept 2026 | 12:41 pm |
