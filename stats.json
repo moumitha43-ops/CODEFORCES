@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 3,
   "maxStreak": 8,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 15,
+    "medium": 16,
     "hard": 0,
     "basic": 10
   },
@@ -45,7 +45,8 @@
     "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
     "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
     "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
-    "LeetCode_Increasing_Triplet_Subsequence": true
+    "LeetCode_Increasing_Triplet_Subsequence": true,
+    "LeetCode_Lexicographical_Numbers": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -61,10 +62,11 @@
     "2026-09-24": 4,
     "2026-09-26": 1,
     "2026-09-27": 1,
-    "2026-09-28": 2
+    "2026-09-28": 3
   },
   "todayProblems": [
     "Maximum Nesting Depth of the Parentheses",
-    "Increasing Triplet Subsequence"
+    "Increasing Triplet Subsequence",
+    "Lexicographical Numbers"
   ]
 }
