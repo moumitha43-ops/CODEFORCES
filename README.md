@@ -36,3 +36,4 @@
 | 34 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 12:24 pm |
 | 35 | [Increasing Triplet Subsequence](./LeetCode/Medium/Increasing%20Triplet%20Subsequence) | [LeetCode](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | 28 Sept 2026 | 12:41 pm |
 | 36 | [Lexicographical Numbers](./LeetCode/Medium/Lexicographical%20Numbers) | [LeetCode](https://leetcode.com/problems/lexicographical-numbers/) | Medium | 28 Sept 2026 | 11:00 pm |
+| 37 | [Word Ladder](./LeetCode/Hard/Word%20Ladder) | [LeetCode](https://leetcode.com/problems/word-ladder/) | Hard | 30 Sept 2026 | 10:09 am |
