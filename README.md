@@ -40,3 +40,4 @@
 | 38 | [1704C - Virus](./Codeforces/basic/1704C%20-%20Virus) | [Codeforces](https://codeforces.com/problemset/problem/1704/C) | basic | 01 Oct 2026 | 02:23 pm |
 | 39 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 02:53 pm |
 | 40 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 02 Oct 2026 | 11:52 pm |
+| 41 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 03 Oct 2026 | 10:07 am |
