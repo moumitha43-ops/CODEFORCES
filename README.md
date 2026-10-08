@@ -42,3 +42,4 @@
 | 40 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 02 Oct 2026 | 11:52 pm |
 | 41 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 03 Oct 2026 | 10:07 am |
 | 42 | [Smallest Pair With Different Frequencies](./LeetCode/Easy/Smallest%20Pair%20With%20Different%20Frequencies) | [LeetCode](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | Easy | 07 Oct 2026 | 09:55 pm |
+| 43 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 08 Oct 2026 | 10:01 am |
