@@ -1,12 +1,12 @@
 {
-  "totalSolved": 43,
-  "currentStreak": 2,
+  "totalSolved": 44,
+  "currentStreak": 3,
   "maxStreak": 8,
-  "lastSyncDate": "2026-10-08",
+  "lastSyncDate": "2026-10-09",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 18,
+    "medium": 19,
     "hard": 1,
     "basic": 11
   },
@@ -53,7 +53,8 @@
     "LeetCode_Sort_List": true,
     "LeetCode_Permutation_in_String": true,
     "LeetCode_Smallest_Pair_With_Different_Frequencies": true,
-    "LeetCode_Remove_Outermost_Parentheses": true
+    "LeetCode_Remove_Outermost_Parentheses": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -75,9 +76,10 @@
     "2026-10-02": 1,
     "2026-10-03": 1,
     "2026-10-07": 1,
-    "2026-10-08": 1
+    "2026-10-08": 1,
+    "2026-10-09": 1
   },
   "todayProblems": [
-    "Remove Outermost Parentheses"
+    "Find Minimum in Rotated Sorted Array"
   ]
 }
