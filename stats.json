@@ -1,12 +1,12 @@
 {
-  "totalSolved": 44,
-  "currentStreak": 3,
+  "totalSolved": 45,
+  "currentStreak": 4,
   "maxStreak": 8,
-  "lastSyncDate": "2026-10-09",
+  "lastSyncDate": "2026-10-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 19,
+    "medium": 20,
     "hard": 1,
     "basic": 11
   },
@@ -54,7 +54,8 @@
     "LeetCode_Permutation_in_String": true,
     "LeetCode_Smallest_Pair_With_Different_Frequencies": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
-    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
+    "LeetCode_Maximum_Number_of_Coins_You_Can_Get": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -77,9 +78,10 @@
     "2026-10-03": 1,
     "2026-10-07": 1,
     "2026-10-08": 1,
-    "2026-10-09": 1
+    "2026-10-09": 1,
+    "2026-10-10": 1
   },
   "todayProblems": [
-    "Find Minimum in Rotated Sorted Array"
+    "Maximum Number of Coins You Can Get"
   ]
 }

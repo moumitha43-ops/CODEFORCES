@@ -44,3 +44,4 @@
 | 42 | [Smallest Pair With Different Frequencies](./LeetCode/Easy/Smallest%20Pair%20With%20Different%20Frequencies) | [LeetCode](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | Easy | 07 Oct 2026 | 09:55 pm |
 | 43 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 08 Oct 2026 | 10:01 am |
 | 44 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 09 Oct 2026 | 03:43 pm |
+| 45 | [Maximum Number of Coins You Can Get](./LeetCode/Medium/Maximum%20Number%20of%20Coins%20You%20Can%20Get) | [LeetCode](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Medium | 10 Oct 2026 | 03:53 pm |
