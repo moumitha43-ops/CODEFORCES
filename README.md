@@ -46,3 +46,4 @@
 | 44 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 09 Oct 2026 | 03:43 pm |
 | 45 | [Maximum Number of Coins You Can Get](./LeetCode/Medium/Maximum%20Number%20of%20Coins%20You%20Can%20Get) | [LeetCode](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Medium | 10 Oct 2026 | 03:53 pm |
 | 46 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 09:12 pm |
+| 47 | [Divide Array Into Arrays With Max Difference](./LeetCode/Medium/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference) | [LeetCode](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | 11 Oct 2026 | 09:24 pm |
