@@ -49,3 +49,4 @@
 | 47 | [Divide Array Into Arrays With Max Difference](./LeetCode/Medium/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference) | [LeetCode](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | 11 Oct 2026 | 09:24 pm |
 | 48 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 09:28 am |
 | 49 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 11:15 am |
+| 50 | [Find Words Containing Character](./LeetCode/Easy/Find%20Words%20Containing%20Character) | [LeetCode](https://leetcode.com/problems/find-words-containing-character/) | Easy | 14 Oct 2026 | 11:27 am |
