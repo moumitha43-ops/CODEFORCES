@@ -48,3 +48,4 @@
 | 46 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 09:12 pm |
 | 47 | [Divide Array Into Arrays With Max Difference](./LeetCode/Medium/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference) | [LeetCode](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | 11 Oct 2026 | 09:24 pm |
 | 48 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 09:28 am |
+| 49 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 11:15 am |
