@@ -1,12 +1,12 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 1,
   "maxStreak": 8,
   "lastSyncDate": "2026-10-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 23,
+    "medium": 24,
     "hard": 1,
     "basic": 11
   },
@@ -61,7 +61,8 @@
     "LeetCode_Maximum_Alternating_Sum_of_Squares": true,
     "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
     "LeetCode_Find_Words_Containing_Character": true,
-    "LeetCode_Percentage_of_Letter_in_String": true
+    "LeetCode_Percentage_of_Letter_in_String": true,
+    "LeetCode_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram": true
   },
   "activityHistory": {
     "2026-09-11": 6,
@@ -89,9 +90,10 @@
     "2026-10-11": 2,
     "2026-10-13": 1,
     "2026-10-14": 2,
-    "2026-10-17": 1
+    "2026-10-17": 2
   },
   "todayProblems": [
-    "Percentage of Letter in String"
+    "Percentage of Letter in String",
+    "Minimum Number of Steps to Make Two Strings Anagram"
   ]
 }

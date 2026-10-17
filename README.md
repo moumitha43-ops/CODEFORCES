@@ -51,3 +51,4 @@
 | 49 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 11:15 am |
 | 50 | [Find Words Containing Character](./LeetCode/Easy/Find%20Words%20Containing%20Character) | [LeetCode](https://leetcode.com/problems/find-words-containing-character/) | Easy | 14 Oct 2026 | 11:27 am |
 | 51 | [Percentage of Letter in String](./LeetCode/Easy/Percentage%20of%20Letter%20in%20String) | [LeetCode](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy | 17 Oct 2026 | 06:29 pm |
+| 52 | [Minimum Number of Steps to Make Two Strings Anagram](./LeetCode/Medium/Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram) | [LeetCode](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | 17 Oct 2026 | 11:33 pm |
