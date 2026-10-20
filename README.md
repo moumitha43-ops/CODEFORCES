@@ -53,3 +53,4 @@
 | 51 | [Percentage of Letter in String](./LeetCode/Easy/Percentage%20of%20Letter%20in%20String) | [LeetCode](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy | 17 Oct 2026 | 06:29 pm |
 | 52 | [Minimum Number of Steps to Make Two Strings Anagram](./LeetCode/Medium/Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram) | [LeetCode](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | 17 Oct 2026 | 11:33 pm |
 | 53 | [Number of Even and Odd Bits](./LeetCode/Easy/Number%20of%20Even%20and%20Odd%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-even-and-odd-bits/) | Easy | 18 Oct 2026 | 08:10 pm |
+| 54 | [Number of Equivalent Domino Pairs](./LeetCode/Easy/Number%20of%20Equivalent%20Domino%20Pairs) | [LeetCode](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | 20 Oct 2026 | 09:51 pm |
