@@ -55,3 +55,4 @@
 | 53 | [Number of Even and Odd Bits](./LeetCode/Easy/Number%20of%20Even%20and%20Odd%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-even-and-odd-bits/) | Easy | 18 Oct 2026 | 08:10 pm |
 | 54 | [Number of Equivalent Domino Pairs](./LeetCode/Easy/Number%20of%20Equivalent%20Domino%20Pairs) | [LeetCode](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | 20 Oct 2026 | 09:51 pm |
 | 55 | [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) | [LeetCode](https://leetcode.com/problems/toeplitz-matrix/) | Easy | 22 Oct 2026 | 01:48 pm |
+| 56 | [Binary Digit Score](./LeetCode/Easy/Binary%20Digit%20Score) | [LeetCode](https://leetcode.com/problems/binary-digit-score/) | Easy | 25 Oct 2026 | 04:49 pm |
