@@ -57,3 +57,4 @@
 | 55 | [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) | [LeetCode](https://leetcode.com/problems/toeplitz-matrix/) | Easy | 22 Oct 2026 | 01:48 pm |
 | 56 | [Binary Digit Score](./LeetCode/Easy/Binary%20Digit%20Score) | [LeetCode](https://leetcode.com/problems/binary-digit-score/) | Easy | 25 Oct 2026 | 04:49 pm |
 | 57 | [First Letter to Appear Twice](./LeetCode/Easy/First%20Letter%20to%20Appear%20Twice) | [LeetCode](https://leetcode.com/problems/first-letter-to-appear-twice/) | Easy | 30 Oct 2026 | 05:30 pm |
+| 58 | [Two Out of Three](./LeetCode/Easy/Two%20Out%20of%20Three) | [LeetCode](https://leetcode.com/problems/two-out-of-three/) | Easy | 30 Oct 2026 | 05:56 pm |
